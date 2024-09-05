@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+
+		<meta charset="UTF-8">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>Chirpley - Page not found</title>
+		<meta name="description" content="A different approach to marketing">
+
+		<link rel="apple-touch-icon" sizes="180x180" href="/library/favicon/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/library/favicon/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/library/favicon/favicon-16x16.png">
+		<link rel="manifest" href="/library/favicon/site.webmanifest">
+		<link rel="mask-icon" href="/library/favicon/safari-pinned-tab.svg" color="#f24139">
+		<link rel="shortcut icon" href="/library/favicon/favicon.ico">
+		<meta name="msapplication-TileColor" content="#da532c">
+		<meta name="msapplication-config" content="/library/favicon/browserconfig.xml">
+		<meta name="theme-color" content="#ffffff">
+
+		<meta property="og:url" content="/">
+		<meta property="og:type" content="website">
+		<meta property="og:title" content="Chirpley - A different approach to marketing">
+		<meta property="og:site_name" content="Chirpley">
+		<meta property="og:description" content="A diffent approach in marketing">
+				
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:title" content="Chirpley - A different approach to marketing">
+		<meta name="twitter:description" content="A diffent approach in marketing">
+		<meta name="twitter:image" content="https://chirpley.ai/library/images/share.png">
+		<script>
+			function setW() {
+				document.documentElement.style.setProperty('--sbr', document.body.offsetWidth / window.innerWidth );
+				document.documentElement.style.setProperty('--sbw',window.innerWidth-document.body.offsetWidth+'px');
+				document.documentElement.style.setProperty('--diag', Math.sqrt(window.innerWidth * window.innerWidth + window.innerHeight * window.innerHeight)+'px');
+			}
+			document.readyState!=='loading'?setW():document.addEventListener("DOMContentLoaded",setW);
+		</script>
+		<script type="text/javascript" src="https://app.termly.io/embed.min.js" data-auto-block="on" data-website-uuid="abe9c28e-87cf-4a13-8ea1-9c91848f77a0" ></script>
+		<!-- Google Tag Manager -->
+		<script>
+			(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-MSNPQ8J');
+		</script>
+		<!-- End Google Tag Manager -->			
+		
+		<link rel="dns-prefetch" href="//s.w.org">
+		<link rel="stylesheet" id="stylesheet-css" href="/library/css/style.css" type="text/css" media="all">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+		<script src="https://unpkg.com/jquery@1.9.1/jquery.min.js"></script>
+		<script src="https://unpkg.com/bootstrap@4.1.0/dist/js/bootstrap.min.js"></script>
+
+	</head>
+
+	<body>
+	
+		<header class="fix header">
+
+			<div class="abs mobile-background"></div>
+
+			<a class="header-logo" name="Home" href="/">
+				<svg viewbox="0 0 144 48" fill="none" xmlns="https://www.w3.org/2000/svg">
+					<path d="M10.552 22.1596L10.552 38.2465C10.552 39.2782 10.1811 39.7846 9.42073 39.7846C8.62331 39.7846 8.21533 39.2782 8.21533 38.2465L8.21533 10.8681C8.21533 9.83646 8.60476 9.33003 9.38364 9.33003C10.1625 9.33003 10.552 9.83646 10.552 10.8681L10.552 19.7025L18.452 19.7025L18.452 11.5996C18.452 5.50368 15.4107 2.87773 9.38364 2.87773C3.13406 2.87773 -1.76415e-09 6.23519 -3.66402e-09 12.9501L-1.02375e-08 36.1833C-1.21427e-08 42.917 3.13406 46.2744 9.38364 46.2744C15.4292 46.2932 18.452 43.4046 18.452 37.6088L18.452 22.1596L10.552 22.1596Z" fill="#F24139"></path>
+					<path d="M30.9326 22.2093L28.5404 22.2093L28.5404 1.42222L20.5661 1.42222L20.5661 44.0874L28.5404 44.0874L28.5404 28.9992L30.9326 28.9992L30.9326 44.0874L38.9069 44.0874L38.9069 1.42222L30.9326 1.42222L30.9326 22.2093Z" fill="#F24139"></path>
+					<path d="M41.3362 42.6651L49.3105 42.6651L49.3105 -1.40426e-08L41.3362 -1.17717e-08L41.3362 42.6651Z" fill="#F24139"></path>
+					<path d="M68.5043 23.7726C69.6726 22.3847 70.2475 20.5465 70.2475 18.2769L70.2475 11.2245C70.2475 6.10389 67.4658 3.23411 61.958 3.23411L51.7584 3.23411L51.7584 45.8993L59.7326 45.8993L59.7326 30.2409L61.4017 30.2409L62.5329 45.8993L70.7853 45.8993L68.5043 23.7726ZM59.7326 10.024L60.4003 10.024C61.5315 10.024 62.0878 10.7555 62.0878 12.2186L62.0878 21.5941C62.0693 23.2822 61.5129 24.1263 60.4003 24.1263L59.7326 24.1263L59.7326 10.024Z" fill="#F24139"></path>
+					<path d="M82.7838 31.688C85.2873 31.688 87.2901 30.8439 88.7737 29.1371C90.2388 27.449 90.9806 25.2544 90.9806 22.5347L90.9806 14.0567C90.9806 11.2995 90.2758 9.16122 88.8479 7.62318C87.42 6.10389 85.3986 5.33486 82.7838 5.33486L72.4173 5.33486L72.4173 48L80.3915 48L80.3915 31.688L82.7838 31.688ZM80.3915 24.9168L80.3915 12.1248L81.1518 12.1248C82.246 12.1248 82.7838 12.8375 82.7838 14.2443L82.7838 22.7598C82.7838 24.2041 82.246 24.9168 81.1518 24.9168L80.3915 24.9168Z" fill="#F24139"></path>
+					<path d="M100.531 4.84431L92.5569 4.84431L92.5569 47.5095L106.41 47.5095L106.41 40.7196L100.531 40.7196L100.531 4.84431Z" fill="#F24139"></path>
+					<path d="M115.589 27.2584L122.117 27.2584L122.117 20.8436L115.589 20.8436L115.589 10.024L122.488 10.024L122.488 3.23411L107.615 3.23411L107.615 45.8993L122.599 45.8993L122.599 39.1094L115.589 39.1094L115.589 27.2584Z" fill="#F24139"></path>
+					<path d="M133.448 18.0519L133.133 13.9067L131.853 3.23411L123.156 3.23411L129.609 36.9899L129.609 45.8993L137.583 45.8993L137.583 36.9523L144 3.23411L135.488 3.23411L134.283 13.9067L133.93 18.0519L133.448 18.0519Z" fill="#F24139"></path>
+				</svg>
+			</a>
+	
+			<div class="mobile-btn">
+				<div class="abs f-center icon open">
+					<svg viewbox="0 0 18 18" fill="none" xmlns="https://www.w3.org/2000/svg">
+						<rect width="18" height="4" fill="#F24139"></rect>
+						<rect y="7" width="18" height="4" fill="#F24139"></rect>
+						<rect y="14" width="18" height="4" fill="#F24139"></rect>
+					</svg>
+				</div>
+				<div class="abs f-center icon close">
+					<svg viewbox="0 0 16 16" fill="none" xmlns="https://www.w3.org/2000/svg">
+						<rect x="3.05078" y="0.222656" width="18" height="4" transform="rotate(45 3.05078 0.222656)" fill="#F24139"></rect>
+						<rect width="18" height="4" transform="matrix(-0.707107 0.707107 0.707107 0.707107 12.9492 0.222656)" fill="#F24139"></rect>
+					</svg>
+				</div>
+			</div>
+
+			<div class="main-menu">
+				<nav class="first">
+					<a class="item" data-name="Our Platform" href="/flowchart/">
+						<span class="title">Our Platform</span>
+					</a>
+					<a class="item" data-name="Vision & Mission" href="/vision-and-mission/">
+						<span class="title">Vision & Mission</span>
+					</a>
+					<a class="item" data-name="Pre Sale" href="/pre-sale/">
+						<span class="title">Pre-Sale</span>
+					</a>					
+				</nav>
+				<nav class="second">
+					<a class="c-btn item" data-name="Join Us" href="https://app.chirpley.ai/Account/Register" target="_blank" rel="noopener">
+						<span class="title">Launch App</span>
+					</a>
+				</nav>
+			</div>
+
+		</header>
+
+		<div id="container" role="main">
+			<div id="not-found" class="page p-not-found" style="opacity: 1; visibility: inherit;">
+				<div class="fixed-wrapper"></div>
+				<div class="js-scroll" style="position: fixed;">
+					<main class="page-wrapper">
+						<section class="p-404 f-center">
+							<h1 class="title">404</h1>
+							<a class="subtitle" href="/">Back to homepage</a>
+							<div class="abs robot">
+								<picture class="r " style="padding-bottom:137.38095238095%" data-ratio="1.3738095238095"><img class="lazy entered loaded" src="./Chirpley - Page not found_files/chirpley-flowchart-robot.png" data-src="/library/media/chirpley-flowchart-robot.png" data-srcset="/library/media/chirpley-flowchart-robot-320x0-c-default.png 320w, /library/media/chirpley-flowchart-robot-640x0-c-default.png 640w, /library/media/chirpley-flowchart-robot.png 840w" data-sizes="(min-width: 750px) 40vw, 100vw" alt="Robot" data-ll-status="loaded" sizes="(min-width: 750px) 40vw, 100vw" srcset="/library/media/chirpley-flowchart-robot-320x0-c-default.png 320w, /library/media/chirpley-flowchart-robot-640x0-c-default.png 640w, /library/media/chirpley-flowchart-robot.png 840w"></picture>
+							</div>
+							<div class="p--s text">
+								<p>Well, this is awkward.<br>There’s nothing to see here.</p>
+							</div>
+						</section>
+					</main>
+					<footer class="footer">
+
+	<section class="footer-connect" data-prllxoxo="-.9" data-p-no-mask>
+		<div class="bubble" data-p-elt>
+			<h2 class="title">Join Chirpley now. Subscribe and start earning today.</h2>
+						<a class="c-btn" href="/pre-sale">Subscribe</a>
+			<div class="anchor"><svg viewbox="0 0 216 114" fill="none" xmlns="https://www.w3.org/2000/svg">
+<path d="M61.3841 84.3764C28.4548 28.8555 6.88667 15.2323 0.21875 15.3609C85.4912 8.54921 246.957 -3.68604 210.643 1.86604C174.328 7.41813 142.938 54.8165 131.782 77.8217C122.037 103.14 94.3134 139.897 61.3841 84.3764Z" fill="#F24139"></path>
+</svg>
+</div>
+		</div>
+		<div class="oeuf debug" data-prllx=".3" data-p-no-mask>
+			<picture class="r " style="padding-bottom:29.658605974395%" data-ratio="0.29658605974395"><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="/library/media/oeuf.png" data-srcset="/library/media/oeuf-320x0-c-default.png 320w, /library/media/oeuf-640x0-c-default.png 640w, /library/media/oeuf-1024x0-c-default.png 1024w, /library/media/oeuf-1280x0-c-default.png 1280w, /library/media/oeuf.png 1406w" data-sizes="(min-width: 750px) 60vw, 150vw" alt="Oeuf"></picture>
+		</div>
+	</section>
+	
+	<section class="footer-menus">
+
+		<nav class="footer-menu">
+			<a class="item" data-name="Media Kits" href="/library/media/chirpley-media-kit.zip" target="_blank" rel="noopener">
+				<span class="title">Media Kits</span>
+			</a>
+			<a class="item" data-name="Team & Partners" href="/team-and-partners">
+				<span class="title">Team & Partners</span>
+			</a>
+			<a class="item" data-name="Token" href="/token">
+				<span class="title">Token</span>
+			</a>
+			<a class="item" data-name="Pre Sale" href="/pre-sale/">
+				<span class="title">Pre-Sale</span>
+			</a>			
+			<a class="item" data-name="Roadmap" href="/roadmap">
+				<span class="title">Roadmap</span>
+			</a>
+		</nav>
+
+		<nav class="footer-more">
+			<h3 class="title">More Info</h3>
+							<a class="item" data-name="Docs " href="https://chirpley.gitbook.io/.ai/" target="_blank" rel="noopener">Docs </a>
+					</nav>
+
+	</section>
+
+	<section class="footer-bottom">
+						<div class="copyright">
+							<a class="no-link" href="javascript:onclick=displayPreferenceModal()">Cookie Preferences</a>
+							<a class="item" href="https://chirpley.ai/library/docs/chirpley_privacy-policy.pdf" target="_blank" rel="noopener">Privacy Policy</a>
+							<a class="item" href="https://chirpley.ai/library/docs/chirpley_terms-of-use.pdf" target="_blank" rel="noopener">Terms of Use</a>
+						</div>
+		<nav class="footer-socials">
+								
+				<a class="item" href="https://discord.gg/fR9CS8mcHn" target="_blank" rel="noopener"><img class="icon" src="/library/media/icon-discord.svg"></a>
+								
+				<a class="item" href="https://t.me/chirpley" target="_blank" rel="noopener"><img class="icon" src="/library/media/icon-telegram.svg"></a>
+								
+				<a class="item" href="https://www.youtube.com/channel/UCAToyfkEWZ6NosMJSjW8C8Q" target="_blank" rel="noopener"><img class="icon" src="/library/media/icon-youtube.svg"></a>
+								
+				<a class="item" href="https://www.tiktok.com/@chirpley" target="_blank" rel="noopener"><img class="icon" src="/library/media/icon-tiktok.svg"></a>
+								
+				<a class="item" href="https://www.reddit.com/user/chirpley/" target="_blank" rel="noopener"><img class="icon" src="/library/media/icon-redit.svg"></a>
+								
+				<a class="item" href="https://www.instagram.com/chirpley/" target="_blank" rel="noopener"><img class="icon" src="/library/media/icon-instagram.svg"></a>
+					</nav>
+		<div class="copyright">Website by <a href="https://numbered.studio" target="_blank" rel="noopener">Numbered.studio</a></div>
+	</section>
+
+</footer>				</div>
+																</div>
+		</div>
+
+		<div class="wp-footer">
+						<script type="text/javascript" src="/library/js/vendor.js" id="vendor-js"></script>
+<script type="text/javascript" src="/library/js/main.js" id="js-js"></script>
+
+		</div>
+
+		<div id="vsscript_102342_208519"></div>
+		<script async type="text/javascript" src="https://app.viralsweep.com/vsa-lightbox-ad56db-102342.js?sid=102342_208519"></script>
+
+		
+	<div id="accountPanel" class="accountpanel">
+		<h5 class="walletheader">Wallet</h5>
+		<a href="javascript:void(0)" class="closebtn" onclick="closeAccount()">X</a>
+		<hr>
+		<div id="network">
+			<p>
+				<strong>Connected blockchain:</strong> <span id="network-name"></span>
+			</p>
+
+			<p>
+				<strong>Connected account:</strong> <span id="selected-account"></span>
+			</p>
+
+		</div>
+
+		<hr>
+		<h6>Account balances</h6>
+		<table class="table table-listing" id="balances">
+			<thead>
+				<th>Address</th>
+				<th>Balance</th>
+			</thead>
+
+			<tbody id="accounts">
+			</tbody>
+		</table>
+		<button class="nav-btn btn btn-red btn-animate btn-disconnect" id="btn-disconnect">
+			Disconnect wallet
+		</button>
+	</div>
+	
+	<div id="templates" style="display: none">
+		<template id="template-balance">
+			<tr>
+			<td class="assetName"></td>
+			<td class="balance"></td>
+			</tr>
+		</template>
+	</div>
+
+	<script type="text/javascript" src="https://unpkg.com/web3@1.5.0/dist/web3.min.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/web3modal@1.9.3/dist/index.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/evm-chains@0.2.0/dist/umd/index.min.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/@walletconnect/web3-provider@1.6.6/dist/umd/index.min.js"></script>
+	<script src="https://unpkg.com/bignumber.js@9.0.1/bignumber.min.js"></script>
+	<!--<script type="text/javascript" src="https://chirpley.ai/library/js/account-panel.js"></script>-->
+	</body>
+	
+</html>
